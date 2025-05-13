@@ -4,6 +4,7 @@ Overview
 The Mood Detection System is a real-time facial emotion recognition project built using deep learning and OpenCV. It captures live video from the user's webcam, detects facial expressions, and classifies them into one of the predefined emotion categories using a trained Convolutional Neural Network (CNN).
 
 Features:-
+
 ->Real-time webcam-based face detection
 
 ->Emotion classification using a CNN model
