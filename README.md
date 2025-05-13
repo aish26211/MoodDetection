@@ -15,11 +15,17 @@ Features:-
 Emotion Categories
 The system can detect and classify the following emotions:
 ->Angry
+
 ->Disgusted
+
 ->Fearful
+
 ->Happy
+
 ->Neutral
+
 ->Sad
+
 ->Surprised
 
 Tech Stack
